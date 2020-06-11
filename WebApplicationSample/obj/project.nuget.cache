@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "R5QNjp3SdCUP9qDoJzDQRZ3KjACaexgeDizpDmuI6g0N7KBHr7bT4G9q3dUU1vu4xj1NU/bNROe1aGHx9PQ9Mg==",
+  "success": true,
+  "projectFilePath": "/Users/pnametala/Documents/git/WebApplicationSample/WebApplicationSample/WebApplicationSample.csproj",
+  "expectedPackageFiles": [
+    "/Users/pnametala/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/pnametala/.nuget/packages/microsoft.openapi/1.1.4/microsoft.openapi.1.1.4.nupkg.sha512",
+    "/Users/pnametala/.nuget/packages/swashbuckle.aspnetcore/5.4.1/swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
+    "/Users/pnametala/.nuget/packages/swashbuckle.aspnetcore.swagger/5.4.1/swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "/Users/pnametala/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.4.1/swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "/Users/pnametala/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.4.1/swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
